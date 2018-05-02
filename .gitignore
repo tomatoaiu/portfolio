@@ -1,0 +1,6 @@
+node_modules
+docs/.vuepress/dist
+yarn-error.log
+yarn.lock
+.vscode
+.DS_Store
