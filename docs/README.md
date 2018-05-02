@@ -6,9 +6,9 @@ actionLink: /about.md
 features:
 - title: 自己紹介サイト
   details: 自分についてまとめています。
-- title: Performant
-  details: VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.
+- title: Deploy with Firebase
+  details: Firebaseでデプロイしています。
 - title: Made with VuePress 
   details: VuePressで作成しています。
-footer: MIT Licensed | Copyright © 2018-present Shunsuke Toba
+footer: Copyright © 2018-present Shunsuke Toba
 ---
